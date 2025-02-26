@@ -46,8 +46,8 @@ Estou constantemente atualizando meus conhecimentos e buscando novos desafios na
 #
 
 <div  align="center" style="margin-bottom:100px">
-<img width=55% align="center"  src="https://github-readme-streak-stats.herokuapp.com?user=AlexandreM12&theme=radical&mode=weekly" />
-<img width=40% align="center" src="https://github-readme-stats-git-main-Alexandre Machado.vercel.app/api/top-langs/?username=AlexandreM12&show_icons=true&theme=radical&layout=compact" />
+<img width=55% align="center"  src="https://github-readme-streak-stats.herokuapp.com?user=alexandreM12&theme=radical&mode=weekly" />
+<img width=40% align="center" src="https://github-readme-stats-git-main-Alexandre Machado.vercel.app/api/top-langs/?username=alexandreM12&show_icons=true&theme=radical&layout=compact" />
  </div>
  
  &nbsp;
