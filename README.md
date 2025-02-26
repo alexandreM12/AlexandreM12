@@ -46,15 +46,12 @@ Estou constantemente atualizando meus conhecimentos e buscando novos desafios na
 #
 
 <div  align="center" style="margin-bottom:100px">
-<img width=55% align="center"  src="https://github-readme-streak-stats.herokuapp.com?user=alexandreM12&theme=radical&mode=weekly" />
-<img width=40% align="center" src="https://github-readme-stats-git-main-alexandreM12.vercel.app/api/top-langs/?username=alexandreM12&show_icons=true&theme=radical&layout=compact" />
+<img width=55% align="center"  src="https://github-readme-streak-stats.herokuapp.com?user=AlexandreM12&theme=radical&mode=weekly" />
+<img width=40% align="center" src="https://github-readme-stats-git-main-Alexandre Machado.vercel.app/api/top-langs/?username=AlexandreM12&show_icons=true&theme=radical&layout=compact" />
  </div>
+ 
+ &nbsp;
+ &nbsp;
 
 
-#
-
-<picture align="center">
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/alexandreM12/alexandreM12/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/alexandreM12/alexandreM12/output/github-contribution-grid-snake-dark.svg">
-  <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/alexandreM12/alexandreM12/output/github-contribution-grid-snake.svg">
-</picture>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=8F0D87&height=120&section=footer"/>
