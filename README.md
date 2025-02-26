@@ -1,8 +1,5 @@
 # 🧑🏻‍💻 Alexandre Machado
 
-**`Desenvolvedor Júnior Full Stack`**
-
-#
 <p align="left">
 
 <div align="center">
